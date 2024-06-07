@@ -15,3 +15,43 @@
         <button className="login-button">LOGIN</button>
       </div>
     </div>
+////////////////
+
+.keypad-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.input-display {
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(3, 80px);
+  grid-gap: 10px;
+}
+
+.keypad button {
+  width: 80px;
+  height: 80px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.login-button {
+  background-color: orange;
+  border: none;
+  color: white;
+}
+
+.login-button:hover {
+  background-color: darkorange;
+}
