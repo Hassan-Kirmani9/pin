@@ -132,6 +132,6 @@ const Keypad = () => {
 
 export default Keypad;
 
-![download (4)](https://github.com/Hassan-Kirmani9/pin/assets/152422845/e3296849-4263-46e7-a4a1-d9c169e49000)
-![bg-poslogin](https://github.com/Hassan-Kirmani9/pin/assets/152422845/b68494d5-5ae7-4f8e-8ac7-8aa4bd4be366)
+![bg-poslogin](https://github.com/Hassan-Kirmani9/pin/assets/152422845/65998b79-60b4-4f83-bf0a-ef29f1c3f8f8)
+
 
