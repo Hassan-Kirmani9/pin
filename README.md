@@ -136,6 +136,5 @@ export default Keypad;
 
 
 background: rgb(255,0,0);
-background: linear-gradient(246deg, rgba(255,0,0,0.680244338946516) 0%, rgba(255,255,255,1) 43%, rgba(0,5,255,0.6214208095347514) 100%);
-
+background: linear-gradient(246deg, rgba(255,0,0,0.5766028823638831) 0%, rgba(255,255,255,1) 43%, rgba(0,5,255,0.6634376162574405) 100%);
 
