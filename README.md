@@ -135,3 +135,7 @@ export default Keypad;
 ![bg-poslogin](https://github.com/Hassan-Kirmani9/pin/assets/152422845/65998b79-60b4-4f83-bf0a-ef29f1c3f8f8)
 
 
+background: rgb(255,0,0);
+background: linear-gradient(246deg, rgba(255,0,0,0.680244338946516) 0%, rgba(255,255,255,1) 43%, rgba(0,5,255,0.6214208095347514) 100%);
+
+
